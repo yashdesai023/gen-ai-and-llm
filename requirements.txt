@@ -1,0 +1,10 @@
+transformers 
+torch==2.7.0
+scikit-learn 
+matplotlib 
+openai
+groq
+langchain-groq
+python-dotenv
+google-generativeai
+sentence_transformers
