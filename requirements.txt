@@ -14,3 +14,7 @@ chromadb
 faiss-cpu 
 PyPDF2
 langchain-community
+llama-index 
+llama-index-embeddings-google 
+llama-index-llms-gemini 
+llama-index-vector-stores-chroma 
